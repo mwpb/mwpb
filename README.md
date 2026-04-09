@@ -5,3 +5,7 @@ I am a Software Developer at Cambridge Quantum. From 2020-2022 I was Director of
 Fog of War Chess is a variant of chess in which each player can only see to the squares to which they can move. You can play online here:
 
 [https://fogofwarchess.com](https://fogofwarchess.com)
+
+Reflechessions is a tool for online chess players to create a feedback loop to improve their play.
+
+[https://reflechessions.com](https://reflechessions.com)
